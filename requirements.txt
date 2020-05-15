@@ -1,0 +1,13 @@
+pip3 install click==6.6
+requests==2.10.0
+selenium==2.53.6
+requests-toolbelt==0.7.0
+
+
+sudo apt-get install libssl-dev openssl build-essential
+wget https://www.python.org/ftp/python/3.5.0/Python-3.5.0.tgz
+tar xzvf Python-3.5.0.tgz
+cd Python-3.5.0
+./configure
+make
+sudo make install
