@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt-get install vim git python3-pip 
+sudo apt-get install vim git python3-pip -y
 
 Python 3 Modules to Install:
 click==6.6
