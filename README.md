@@ -1,5 +1,24 @@
 # Firewall Inspection Tester (fit)
-Author: Alex Harvey, @meshmeld""")
-Fit Files for Download
+## Author: Alex Harvey, @meshmeld""")
+    Fit Files for Download
 
-see requirements.txt for Installation instruction steps.
+### Pre-requisites to install:
+    sudo apt update
+    sudo apt-get install vim git python3-pip -y
+
+### Python 3 Modules to Install:
+    click==6.6
+    requests==2.10.0
+    selenium==2.53.6
+    requests-toolbelt==0.7.0
+
+### Install all at once with this:
+    pip3 install click==6.6 requests==2.10.0 selenium==2.53.6 requests-toolbelt==0.7.0
+
+### Clone repository into home directory:
+    git clone https://github.com/gahlberg/fit.git
+
+### To make repeatFit.py and repeatFitMalware.py executable without specifying python (./repeatFit.py), perform the following:
+    [host]$ chmod 777 repeatFit.py 
+    [host]$ chmod 777 repeatFitMalware.py 
+
