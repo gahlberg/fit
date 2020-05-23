@@ -18,11 +18,3 @@ To make repeatFit.py and repeatFitMalware.py executable without specifying pytho
 [host]$ chmod 777 repeatFit.py 
 [host]$ chmod 777 repeatFitMalware.py 
 
-If running older version of python3, something like the following:
-sudo apt-get install libssl-dev openssl build-essential
-wget https://www.python.org/ftp/python/3.5.0/Python-3.5.0.tgz
-tar xzvf Python-3.5.0.tgz
-cd Python-3.5.0
-./configure
-make
-sudo make install
