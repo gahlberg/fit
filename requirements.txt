@@ -1,3 +1,4 @@
+Pre-requisites to install:
 sudo apt update
 sudo apt-get install vim git python3-pip -y
 
