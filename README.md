@@ -25,4 +25,5 @@ Here are the Fit Files for Download and instructions below to install and run on
 ### Issue the command appropriate in the fit/ directory to run:
     [host]$ ./repeatFit.py
   
-### To quit the Fit program from running, simply issue Ctrl-Z... 
+### To quit the Fit program from running: 
+    simply issue Ctrl-Z... 
