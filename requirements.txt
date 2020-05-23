@@ -1,10 +1,15 @@
-pip3 install click==6.6
+sudo apt update
+sudo apt-get install vim git python3-pip 
+
+Python 3 Modules to Install:
+click==6.6
 requests==2.10.0
 selenium==2.53.6
 requests-toolbelt==0.7.0
 
 pip3 install click==6.6 requests==2.10.0 selenium==2.53.6 requests-toolbelt==0.7.0
 
+git clone https://github.com/gahlberg/fit.git
 
 sudo apt-get install libssl-dev openssl build-essential
 wget https://www.python.org/ftp/python/3.5.0/Python-3.5.0.tgz
