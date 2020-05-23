@@ -2,4 +2,4 @@
 Author: Alex Harvey, @meshmeld""")
 Fit Files for Download
 
-see requirements for Installation steps.
+see requirements.txt for Installation instruction steps.
