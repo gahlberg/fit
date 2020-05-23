@@ -1,6 +1,6 @@
 # Firewall Inspection Tester (fit)
 Author: Alex Harvey, @meshmeld""")
-Here are the Fit Files for Download
+Here are the Fit Files for Download and instructions below to install and run on Ubuntu 16.04 and above:
 
 ### Pre-requisites to install:
     sudo apt update
