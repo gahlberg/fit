@@ -22,3 +22,7 @@ Here are the Fit Files for Download and instructions below to install and run on
     [host]$ chmod 777 repeatFit.py 
     [host]$ chmod 777 repeatFitMalware.py 
 
+### Issue the command appropriate in the fit/ directory to run:
+    [host]$ ./repeatFit.py
+  
+### To Quit teh Fit program from running, simply Ctrl-Z  
