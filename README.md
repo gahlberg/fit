@@ -12,7 +12,7 @@ Here are the Fit Files for Download and instructions below to install and run on
     selenium==2.53.6
     requests-toolbelt==0.7.0
 
-### Install all at once with PIP3:
+### Install all at once with Pip3:
     pip3 install click==6.6 requests==2.10.0 selenium==2.53.6 requests-toolbelt==0.7.0
 
 ### Clone repository into home directory:
