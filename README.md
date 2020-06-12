@@ -19,8 +19,8 @@ Here are the Fit Files for Download and instructions below to install and run on
     git clone https://github.com/gahlberg/fit.git
 
 ### To make repeatFit.py and repeatFitMalware.py executable without specifying python (./repeatFit.py), perform the following:
-    [host]$ chmod 777 repeatFit.py 
-    [host]$ chmod 777 repeatFitMalware.py 
+    [host]$ chmod 700 repeatFit.py 
+    [host]$ chmod 700 repeatFitMalware.py 
 
 ### Issue the command appropriate in the fit/ directory to run:
     [host]$ ./repeatFit.py
